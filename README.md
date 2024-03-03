@@ -1,3 +1,7 @@
+SORTING BY LATEST TIMESTAMP (DESCENDING)
+
+
+
 ![image](https://github.com/RevanArturito/MLAB-WEEK-7/assets/152382596/b0377270-6938-4dc6-bbe4-e9369b1f4d7d)
 
 ![image](https://github.com/RevanArturito/MLAB-WEEK-7/assets/152382596/71d20f6c-dd69-48df-bd0e-b35e32d6fac0)
